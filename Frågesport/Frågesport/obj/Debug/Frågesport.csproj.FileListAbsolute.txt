@@ -1,0 +1,11 @@
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\bin\Debug\Frågesport.exe.config
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\bin\Debug\Frågesport.exe
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\bin\Debug\Frågesport.pdb
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.csprojResolveAssemblyReference.cache
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.Form1.resources
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.Properties.Resources.resources
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.csproj.GenerateResource.Cache
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.csproj.CoreCompileInputs.cache
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.exe
+C:\Users\js16.skyddad\Desktop\GitHub\frågesport\Frågesport\Frågesport\obj\Debug\Frågesport.pdb
